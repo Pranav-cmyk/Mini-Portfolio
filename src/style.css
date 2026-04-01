@@ -162,7 +162,9 @@ header img {
 }
 
 .blog-title {
+    text-align: left;
     font-weight: 600;
+    padding-bottom: 0.1em;
 }
 
 .blog-description {

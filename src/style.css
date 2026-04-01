@@ -245,3 +245,24 @@ footer {
         width: 60vw;
     }
 }
+
+@media (min-width: 1024px) {
+    .hero-section {
+        height: 600px;
+    }
+
+    .hero-cover {
+        padding-top: 120px;
+        height: min-content;
+        width: min-content;
+    }
+
+    .hero-cover-title {
+        font-size: 3.2rem;
+    }
+
+    .hero-cover p {
+        font-size: 1.5rem;
+        width: 700px;
+    }
+}

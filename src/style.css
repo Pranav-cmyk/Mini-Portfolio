@@ -72,7 +72,7 @@ header img {
 
 .header-nav {
     display: flex;
-    gap: 2.5rem;
+    gap: 0.8rem;
     cursor: pointer;
     margin-right: 1vw;
 }

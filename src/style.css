@@ -85,10 +85,9 @@ header img {
 
 .hero-section {
     font-family: "Source Sans 3", sans-serif;
-    background-image: url("./assets/article-image-hero.png");
+    background-image: url("assets/article-image-hero.png");
     background-size: cover;
     height: 380px;
-    max-width: 1080px;
     padding: 0 1.6em;
 }
 
